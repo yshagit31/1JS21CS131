@@ -4,4 +4,4 @@
 
 Here is a screenshot of the application:
 
-![Application Screenshot](Screenshot (842).png)
+![Application Screenshot](assests/images/Screenshot (842).png)
